@@ -14,6 +14,9 @@ The images are named according to the table .
 11)Throughput
 12)Latency
 13)Replication lag
+14)Alerting Policy-- will a mail be sent to the user in case
+(for example he set alert policy to be if connections is > 4 
+for a database instance he should be notified)
 
 Eg:
 AWS folder 1.png is for cpu utilisation.
