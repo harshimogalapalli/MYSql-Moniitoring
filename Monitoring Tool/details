@@ -1,0 +1,7 @@
+This is the code for live updating monitoring tool which sends queries after connecting to MySQL client and display them in graphs.
+User have to change the host name port user pssword details in the code.
+The code is written in python.
+A video is attached for the demo purpose.
+
+Other packages user need to install are python, pip.
+And then user can run the python file in command line.
