@@ -21,3 +21,5 @@ for a database instance he should be notified)
 Eg:
 AWS folder 1.png is for cpu utilisation.
 2,3.png is for Active connections and Storage usage
+
+Here in the monitoring Tool folder one can see the complete python code for live updating metrics.
